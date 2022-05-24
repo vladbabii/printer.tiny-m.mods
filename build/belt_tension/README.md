@@ -12,3 +12,8 @@ Steps
 6. repeat 4 and 5 untill 100.8 hz is reliably detected by the app
 
 It's more important to have the same hz on the two belts than to have it equal to 100.8. For example it's better to have both at 100.7 than one at 100.7 and one at 100.8
+
+
+![pluck top belt](https://raw.githubusercontent.com/vladbabii/printer.tiny-m.mods/main/build/belt_tension/pluck_1.png)
+![pluck bottom belt](https://raw.githubusercontent.com/vladbabii/printer.tiny-m.mods/main/build/belt_tension/pluck_2.png)
+![set tension](https://raw.githubusercontent.com/vladbabii/printer.tiny-m.mods/main/build/belt_tension/tension.png)
