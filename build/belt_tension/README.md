@@ -1,3 +1,5 @@
+Wrench is a cut up version of https://github.com/gsl12/Tiny-M/blob/master/usermods/Xile_Mods/Tensioning_Wrench/Knob_Wrench.stl since the full sized one can't be used when the top panel between motors is already screwed in place
+
 According to http://benchtopmachineshop.blogspot.com/2019/04/printer-belt-tension.html
 the correct tension in hertz is 28531 / mm
 
