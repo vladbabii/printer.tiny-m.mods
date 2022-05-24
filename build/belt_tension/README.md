@@ -13,11 +13,15 @@ Steps
 
 It's more important to have the same hz on the two belts than to have it equal to 100.8. For example it's better to have both at 100.7 than one at 100.7 and one at 100.8
 
+
 for top belt just touch the belt a little and move from right to left
+
 ![pluck top belt](https://raw.githubusercontent.com/vladbabii/printer.tiny-m.mods/main/build/belt_tension/pluck_1.png)
 
 for bottom belt insert the wrench so not to touch the top one right to left
+
 ![pluck bottom belt](https://raw.githubusercontent.com/vladbabii/printer.tiny-m.mods/main/build/belt_tension/pluck_2.png)
 
 to tighten/loosen the belts just rotate the know with the wrench
+
 ![set tension](https://raw.githubusercontent.com/vladbabii/printer.tiny-m.mods/main/build/belt_tension/tension.png)
